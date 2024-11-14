@@ -1,0 +1,240 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Mustafa\\DevelopmentProject\\JadwaEmailConnector\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE2672B-DEDA-4A50-BD65-F492B09A391C}|JadwaEmailConnector.Web\\JadwaEmailConnector.Web.csproj|e:\\mustafa\\developmentproject\\jadwaemailconnector\\jadwaemailconnector.web\\controllers\\emailservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE2672B-DEDA-4A50-BD65-F492B09A391C}|JadwaEmailConnector.Web\\JadwaEmailConnector.Web.csproj|solutionrelative:jadwaemailconnector.web\\controllers\\emailservicecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BB2790-8413-4306-8A74-61E566D8CAEC}|JadwaEmailConnector.Application\\JadwaEmailConnector.Application.csproj|e:\\mustafa\\developmentproject\\jadwaemailconnector\\jadwaemailconnector.application\\workresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BB2790-8413-4306-8A74-61E566D8CAEC}|JadwaEmailConnector.Application\\JadwaEmailConnector.Application.csproj|solutionrelative:jadwaemailconnector.application\\workresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BB2790-8413-4306-8A74-61E566D8CAEC}|JadwaEmailConnector.Application\\JadwaEmailConnector.Application.csproj|e:\\mustafa\\developmentproject\\jadwaemailconnector\\jadwaemailconnector.application\\dtos\\emailrequestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BB2790-8413-4306-8A74-61E566D8CAEC}|JadwaEmailConnector.Application\\JadwaEmailConnector.Application.csproj|solutionrelative:jadwaemailconnector.application\\dtos\\emailrequestviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BB2790-8413-4306-8A74-61E566D8CAEC}|JadwaEmailConnector.Application\\JadwaEmailConnector.Application.csproj|e:\\mustafa\\developmentproject\\jadwaemailconnector\\jadwaemailconnector.application\\interfaces\\iservices\\iemailrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BB2790-8413-4306-8A74-61E566D8CAEC}|JadwaEmailConnector.Application\\JadwaEmailConnector.Application.csproj|solutionrelative:jadwaemailconnector.application\\interfaces\\iservices\\iemailrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BB2790-8413-4306-8A74-61E566D8CAEC}|JadwaEmailConnector.Application\\JadwaEmailConnector.Application.csproj|e:\\mustafa\\developmentproject\\jadwaemailconnector\\jadwaemailconnector.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BB2790-8413-4306-8A74-61E566D8CAEC}|JadwaEmailConnector.Application\\JadwaEmailConnector.Application.csproj|solutionrelative:jadwaemailconnector.application\\dependencyinjection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BB2790-8413-4306-8A74-61E566D8CAEC}|JadwaEmailConnector.Application\\JadwaEmailConnector.Application.csproj|e:\\mustafa\\developmentproject\\jadwaemailconnector\\jadwaemailconnector.application\\repositories\\emailrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BB2790-8413-4306-8A74-61E566D8CAEC}|JadwaEmailConnector.Application\\JadwaEmailConnector.Application.csproj|solutionrelative:jadwaemailconnector.application\\repositories\\emailrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BB2790-8413-4306-8A74-61E566D8CAEC}|JadwaEmailConnector.Application\\JadwaEmailConnector.Application.csproj|e:\\mustafa\\developmentproject\\jadwaemailconnector\\jadwaemailconnector.application\\services\\emailrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BB2790-8413-4306-8A74-61E566D8CAEC}|JadwaEmailConnector.Application\\JadwaEmailConnector.Application.csproj|solutionrelative:jadwaemailconnector.application\\services\\emailrequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BB2790-8413-4306-8A74-61E566D8CAEC}|JadwaEmailConnector.Application\\JadwaEmailConnector.Application.csproj|e:\\mustafa\\developmentproject\\jadwaemailconnector\\jadwaemailconnector.application\\interfaces\\irepositories\\iemailrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BB2790-8413-4306-8A74-61E566D8CAEC}|JadwaEmailConnector.Application\\JadwaEmailConnector.Application.csproj|solutionrelative:jadwaemailconnector.application\\interfaces\\irepositories\\iemailrequestrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44BB2790-8413-4306-8A74-61E566D8CAEC}|JadwaEmailConnector.Application\\JadwaEmailConnector.Application.csproj|e:\\mustafa\\developmentproject\\jadwaemailconnector\\jadwaemailconnector.application\\entites\\emailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44BB2790-8413-4306-8A74-61E566D8CAEC}|JadwaEmailConnector.Application\\JadwaEmailConnector.Application.csproj|solutionrelative:jadwaemailconnector.application\\entites\\emailrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3AE2672B-DEDA-4A50-BD65-F492B09A391C}|JadwaEmailConnector.Web\\JadwaEmailConnector.Web.csproj|e:\\mustafa\\developmentproject\\jadwaemailconnector\\jadwaemailconnector.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3AE2672B-DEDA-4A50-BD65-F492B09A391C}|JadwaEmailConnector.Web\\JadwaEmailConnector.Web.csproj|solutionrelative:jadwaemailconnector.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 14,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{6324226f-61b6-4f28-92ee-18d4b5fe1e48}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmailRequestRepository.cs",
+              "DocumentMoniker": "E:\\Mustafa\\DevelopmentProject\\JadwaEmailConnector\\JadwaEmailConnector.Application\\Repositories\\EmailRequestRepository.cs",
+              "RelativeDocumentMoniker": "JadwaEmailConnector.Application\\Repositories\\EmailRequestRepository.cs",
+              "ToolTip": "E:\\Mustafa\\DevelopmentProject\\JadwaEmailConnector\\JadwaEmailConnector.Application\\Repositories\\EmailRequestRepository.cs",
+              "RelativeToolTip": "JadwaEmailConnector.Application\\Repositories\\EmailRequestRepository.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAwAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T17:23:52.934Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IEmailRequestRepository.cs",
+              "DocumentMoniker": "E:\\Mustafa\\DevelopmentProject\\JadwaEmailConnector\\JadwaEmailConnector.Application\\Interfaces\\IRepositories\\IEmailRequestRepository.cs",
+              "RelativeDocumentMoniker": "JadwaEmailConnector.Application\\Interfaces\\IRepositories\\IEmailRequestRepository.cs",
+              "ToolTip": "E:\\Mustafa\\DevelopmentProject\\JadwaEmailConnector\\JadwaEmailConnector.Application\\Interfaces\\IRepositories\\IEmailRequestRepository.cs",
+              "RelativeToolTip": "JadwaEmailConnector.Application\\Interfaces\\IRepositories\\IEmailRequestRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T17:22:07.367Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmailRequestViewModel.cs",
+              "DocumentMoniker": "E:\\Mustafa\\DevelopmentProject\\JadwaEmailConnector\\JadwaEmailConnector.Application\\Dtos\\EmailRequestViewModel.cs",
+              "RelativeDocumentMoniker": "JadwaEmailConnector.Application\\Dtos\\EmailRequestViewModel.cs",
+              "ToolTip": "E:\\Mustafa\\DevelopmentProject\\JadwaEmailConnector\\JadwaEmailConnector.Application\\Dtos\\EmailRequestViewModel.cs",
+              "RelativeToolTip": "JadwaEmailConnector.Application\\Dtos\\EmailRequestViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T17:14:17.034Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "WorkResponse.cs",
+              "DocumentMoniker": "E:\\Mustafa\\DevelopmentProject\\JadwaEmailConnector\\JadwaEmailConnector.Application\\WorkResponse.cs",
+              "RelativeDocumentMoniker": "JadwaEmailConnector.Application\\WorkResponse.cs",
+              "ToolTip": "E:\\Mustafa\\DevelopmentProject\\JadwaEmailConnector\\JadwaEmailConnector.Application\\WorkResponse.cs",
+              "RelativeToolTip": "JadwaEmailConnector.Application\\WorkResponse.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T17:00:28.616Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmailServiceController.cs",
+              "DocumentMoniker": "E:\\Mustafa\\DevelopmentProject\\JadwaEmailConnector\\JadwaEmailConnector.Web\\Controllers\\EmailServiceController.cs",
+              "RelativeDocumentMoniker": "JadwaEmailConnector.Web\\Controllers\\EmailServiceController.cs",
+              "ToolTip": "E:\\Mustafa\\DevelopmentProject\\JadwaEmailConnector\\JadwaEmailConnector.Web\\Controllers\\EmailServiceController.cs",
+              "RelativeToolTip": "JadwaEmailConnector.Web\\Controllers\\EmailServiceController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:43:52.834Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "EmailRequest.cs",
+              "DocumentMoniker": "E:\\Mustafa\\DevelopmentProject\\JadwaEmailConnector\\JadwaEmailConnector.Application\\Entites\\EmailRequest.cs",
+              "RelativeDocumentMoniker": "JadwaEmailConnector.Application\\Entites\\EmailRequest.cs",
+              "ToolTip": "E:\\Mustafa\\DevelopmentProject\\JadwaEmailConnector\\JadwaEmailConnector.Application\\Entites\\EmailRequest.cs",
+              "RelativeToolTip": "JadwaEmailConnector.Application\\Entites\\EmailRequest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:30:28.7Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "EmailRequestService.cs",
+              "DocumentMoniker": "E:\\Mustafa\\DevelopmentProject\\JadwaEmailConnector\\JadwaEmailConnector.Application\\Services\\EmailRequestService.cs",
+              "RelativeDocumentMoniker": "JadwaEmailConnector.Application\\Services\\EmailRequestService.cs",
+              "ToolTip": "E:\\Mustafa\\DevelopmentProject\\JadwaEmailConnector\\JadwaEmailConnector.Application\\Services\\EmailRequestService.cs",
+              "RelativeToolTip": "JadwaEmailConnector.Application\\Services\\EmailRequestService.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAowCwAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:27:01.33Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IEmailRequestService.cs",
+              "DocumentMoniker": "E:\\Mustafa\\DevelopmentProject\\JadwaEmailConnector\\JadwaEmailConnector.Application\\Interfaces\\IServices\\IEmailRequestService.cs",
+              "RelativeDocumentMoniker": "JadwaEmailConnector.Application\\Interfaces\\IServices\\IEmailRequestService.cs",
+              "ToolTip": "E:\\Mustafa\\DevelopmentProject\\JadwaEmailConnector\\JadwaEmailConnector.Application\\Interfaces\\IServices\\IEmailRequestService.cs",
+              "RelativeToolTip": "JadwaEmailConnector.Application\\Interfaces\\IServices\\IEmailRequestService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:26:46.361Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "DependencyInjection.cs",
+              "DocumentMoniker": "E:\\Mustafa\\DevelopmentProject\\JadwaEmailConnector\\JadwaEmailConnector.Application\\DependencyInjection.cs",
+              "RelativeDocumentMoniker": "JadwaEmailConnector.Application\\DependencyInjection.cs",
+              "ToolTip": "E:\\Mustafa\\DevelopmentProject\\JadwaEmailConnector\\JadwaEmailConnector.Application\\DependencyInjection.cs",
+              "RelativeToolTip": "JadwaEmailConnector.Application\\DependencyInjection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:14:57.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Mustafa\\DevelopmentProject\\JadwaEmailConnector\\JadwaEmailConnector.Web\\Program.cs",
+              "RelativeDocumentMoniker": "JadwaEmailConnector.Web\\Program.cs",
+              "ToolTip": "E:\\Mustafa\\DevelopmentProject\\JadwaEmailConnector\\JadwaEmailConnector.Web\\Program.cs",
+              "RelativeToolTip": "JadwaEmailConnector.Web\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T16:06:37.654Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 90,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
