@@ -1,5 +1,4 @@
 ﻿using JadwaEmailConnector.Application.Dtos;
-using JadwaEmailConnector.Application.Entites;
 
 namespace JadwaEmailConnector.Application.Interfaces.IServices
 {

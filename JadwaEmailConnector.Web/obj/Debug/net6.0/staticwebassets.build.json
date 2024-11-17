@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "5xVDbvK5XMqv8rYZaCpHPtweYikEHERSWi0F69UF9k4=",
+  "Source": "JadwaEmailConnector.Web",
+  "BasePath": "_content/JadwaEmailConnector.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

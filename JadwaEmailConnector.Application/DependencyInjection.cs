@@ -1,5 +1,7 @@
 ﻿using System.Data;
+using JadwaEmailConnector.Application.Interfaces.IRepositories;
 using JadwaEmailConnector.Application.Interfaces.IServices;
+using JadwaEmailConnector.Application.Repositories;
 using JadwaEmailConnector.Application.Services;
 using Microsoft.Data.SqlClient;
 using Microsoft.Extensions.DependencyInjection;
@@ -11,7 +13,7 @@ namespace JadwaEmailConnector.Application
     {
         public static void AddInfrastructure(this IServiceCollection services, string? connectionString)
         {
-            services.AddTransient<IDbConnection>(provider => new SqlConnection(connectionString));
+            services.AddTransient<IDbConnection>(_ => new SqlConnection(connectionString));
 
             services.AddLogging(loggingBuilder =>
             {
@@ -20,8 +22,11 @@ namespace JadwaEmailConnector.Application
 
            
 
-            services.AddTransient<IEmailRequestService, EmailRequestRepository>();
-          
+            services.AddTransient<IEmailRequestService, EmailRequestService>();
+            services.AddTransient<IEmailService, EmailService>();
+            services.AddTransient<IEmailRequestRepository, EmailRequestRepository>();
+            services.AddTransient<IEmailSendAttemptRepository, EmailSendAttemptRepository>();
+
         }
     }
 }
