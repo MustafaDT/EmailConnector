@@ -1,0 +1,13 @@
+E:\Mustafa\DevelopmentProject\JadwaEmailConnector\ECon.Application\obj\Debug\net8.0\ECon.Application.csproj.AssemblyReference.cache
+E:\Mustafa\DevelopmentProject\JadwaEmailConnector\ECon.Application\obj\Debug\net8.0\ECon.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Mustafa\DevelopmentProject\JadwaEmailConnector\ECon.Application\obj\Debug\net8.0\ECon.Application.AssemblyInfoInputs.cache
+E:\Mustafa\DevelopmentProject\JadwaEmailConnector\ECon.Application\obj\Debug\net8.0\ECon.Application.AssemblyInfo.cs
+E:\Mustafa\DevelopmentProject\JadwaEmailConnector\ECon.Application\obj\Debug\net8.0\ECon.Application.csproj.CoreCompileInputs.cache
+E:\Mustafa\DevelopmentProject\JadwaEmailConnector\ECon.Application\obj\Debug\net8.0\ECon.Application.sourcelink.json
+E:\Mustafa\DevelopmentProject\JadwaEmailConnector\ECon.Application\bin\Debug\net8.0\ECon.Application.deps.json
+E:\Mustafa\DevelopmentProject\JadwaEmailConnector\ECon.Application\bin\Debug\net8.0\ECon.Application.dll
+E:\Mustafa\DevelopmentProject\JadwaEmailConnector\ECon.Application\bin\Debug\net8.0\ECon.Application.pdb
+E:\Mustafa\DevelopmentProject\JadwaEmailConnector\ECon.Application\obj\Debug\net8.0\ECon.Application.dll
+E:\Mustafa\DevelopmentProject\JadwaEmailConnector\ECon.Application\obj\Debug\net8.0\refint\ECon.Application.dll
+E:\Mustafa\DevelopmentProject\JadwaEmailConnector\ECon.Application\obj\Debug\net8.0\ECon.Application.pdb
+E:\Mustafa\DevelopmentProject\JadwaEmailConnector\ECon.Application\obj\Debug\net8.0\ref\ECon.Application.dll

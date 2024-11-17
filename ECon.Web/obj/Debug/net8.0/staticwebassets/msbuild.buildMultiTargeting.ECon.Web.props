@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ECon.Web.props" />
+</Project>
